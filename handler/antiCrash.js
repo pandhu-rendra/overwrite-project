@@ -12,3 +12,17 @@ module.exports = (client) => {
         console.log[err, origin];
     });
 }
+
+/**
+╔═╗╦  ╦╔═╗╦═╗╦ ╦╦═╗╦╔╦╗╔═╗  ╔═╗╔╦╗╔═╗╦═╗╔═╗
+║ ║╚╗╔╝║╣ ╠╦╝║║║╠╦╝║ ║ ║╣   ╚═╗ ║ ║ ║╠╦╝║╣ 
+╚═╝ ╚╝ ╚═╝╩╚═╚╩╝╩╚═╩ ╩ ╚═╝  ╚═╝ ╩ ╚═╝╩╚═╚═╝
+ 
+@info
+Source code by | Overwrite store
+@info
+Source code id | OVERWRITE BOT
+@info
+Perhatian      | Credit & Watermark jangan diremove | hilangkan!
+@info
+*/
