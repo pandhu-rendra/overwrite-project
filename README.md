@@ -41,11 +41,11 @@ Before you begin, make sure you have the following installed:
 - [express](https://npmjs.com/package/express)
 
 ## 🔧 Installation
-```git clone https://github.com/pandhu-rendra/overwrite-project.git```
-```npm install```
-```rename .env.example to .env```
-```add your bot token to .env```
-```nodemon```
+\`\`\`git clone https://github.com/pandhu-rendra/overwrite-project.git
+npm install
+rename .env.example to .env
+add your bot token to .env
+nodemon\`\`\`
 
 ## 💸 Support me
 If you find this project helpful, consider supporting me on Saweria:
