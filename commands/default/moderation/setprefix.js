@@ -8,5 +8,5 @@ module.exports = {
     $title[Setprefix]
     $description[
 <:ovbprefix:1272215825352232960> **Prefix:** $message]
-    $footer[Changed by $userTag[$authorID];$userAvatarppppppppppppppppppppppp]`
+    $footer[Changed by $userTag[$authorID];$$userAvatar[$authorID]]`
 }
