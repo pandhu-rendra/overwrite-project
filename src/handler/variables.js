@@ -6,6 +6,19 @@ module.exports = (client) => {
         aimsg:"",
         autopingreply: "on",
         readyChannel: "1272920183245373451", // Change this to your ready channel id
-        aiChannel: "" // don't change this or fill it with your channel id
     })
 }
+
+/**
+╔═╗╦  ╦╔═╗╦═╗╦ ╦╦═╗╦╔╦╗╔═╗  ╔═╗╔╦╗╔═╗╦═╗╔═╗
+║ ║╚╗╔╝║╣ ╠╦╝║║║╠╦╝║ ║ ║╣   ╚═╗ ║ ║ ║╠╦╝║╣ 
+╚═╝ ╚╝ ╚═╝╩╚═╚╩╝╩╚═╩ ╩ ╚═╝  ╚═╝ ╩ ╚═╝╩╚═╚═╝
+ 
+@info
+Source code by | Overwrite store
+@info
+Source code id | OVERWRITE BOT
+@info
+Perhatian      | Credit & Watermark jangan diremove | hilangkan!
+@info
+*/
