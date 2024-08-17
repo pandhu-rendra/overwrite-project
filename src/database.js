@@ -24,3 +24,17 @@ db.on("ready", () => {
 });
 
 db.connect();
+
+/**
+╔═╗╦  ╦╔═╗╦═╗╦ ╦╦═╗╦╔╦╗╔═╗  ╔═╗╔╦╗╔═╗╦═╗╔═╗
+║ ║╚╗╔╝║╣ ╠╦╝║║║╠╦╝║ ║ ║╣   ╚═╗ ║ ║ ║╠╦╝║╣ 
+╚═╝ ╚╝ ╚═╝╩╚═╚╩╝╩╚═╩ ╩ ╚═╝  ╚═╝ ╩ ╚═╝╩╚═╚═╝
+ 
+@info
+Source code by | Overwrite store
+@info
+Source code id | OVERWRITE BOT
+@info
+Perhatian      | Credit & Watermark jangan diremove | hilangkan!
+@info
+*/
