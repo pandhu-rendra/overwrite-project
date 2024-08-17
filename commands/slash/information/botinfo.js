@@ -14,7 +14,7 @@ module.exports = {
     {image:YOUR_IMAGE_LINK}
     {title:About:}
     {description:
-Overwrite Bot is a fully modular Discord bot, allowing you to enable or disable all features and commands according to your preferences
+Bot information
     
 **Information**
 <:ovbdevs:1271764942302871623> **Developer:** <@$clientOwnerIDs>
