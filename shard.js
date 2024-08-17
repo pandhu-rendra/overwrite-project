@@ -1,8 +1,9 @@
 const { ClientShard } = require("aoi.js");
 
 const sharder = new ClientShard("./index.js", {
-    token: process.env.TOKEN,
-    totalShards: 3,
+    // Your main file, in this case called "index.js".
+    token: process.env.TOKEN, // Your Discord Bot token.
+    totalShards: 3, // The amount of shards/instances you want to create, in this case three.
     shardList: "auto",
 });
 
