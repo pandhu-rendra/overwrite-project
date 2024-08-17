@@ -9,3 +9,17 @@ const sharder = new ClientShard("./index.js", {
 
 sharder.on("shardCreate", (shard) => console.log(`Launched shard ${shard.id}`));
 sharder.startProcess();
+
+/**
+╔═╗╦  ╦╔═╗╦═╗╦ ╦╦═╗╦╔╦╗╔═╗  ╔═╗╔╦╗╔═╗╦═╗╔═╗
+║ ║╚╗╔╝║╣ ╠╦╝║║║╠╦╝║ ║ ║╣   ╚═╗ ║ ║ ║╠╦╝║╣ 
+╚═╝ ╚╝ ╚═╝╩╚═╚╩╝╩╚═╩ ╩ ╚═╝  ╚═╝ ╩ ╚═╝╩╚═╚═╝
+ 
+@info
+Source code by | Overwrite store
+@info
+Source code id | OVERWRITE BOT
+@info
+Perhatian      | Credit & Watermark jangan diremove | hilangkan!
+@info
+*/
