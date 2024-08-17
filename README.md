@@ -45,7 +45,7 @@ Before you begin, make sure you have the following installed:
 npm install
 rename .env.example to .env
 add your bot token to .env
-nodemon``
+nodemon```
 
 ## 💸 Support me
 If you find this project helpful, consider supporting me on Saweria:
