@@ -1,27 +1,27 @@
 module.exports = (client) => {
     client.status({
-        name: "OVERWRITE STORE",
+        name: "STATUS 1",
         type: "WATCHING",
         status: "idle",
         time: 6,
     });
     
     client.status({
-        name: "Made with ❤️&☕",
+        name: "STATUS 2",
         type: "PLAYING",
         status: "dnd",
         time: 6,
     });
     
     client.status({
-        name: `ov?help | $guildCount Servers`,
+        name: `STATUS 3`,
         type: "LISTENING",
         status: "online",
         time: 6,
     })
     
     client.status({
-        name: "OVERWRITE STORE - MURAH DAN TERPERCAYA",
+        name: "STATUS 4",
         type: "CUSTOM",
         status: "idle",
         time: 6,
