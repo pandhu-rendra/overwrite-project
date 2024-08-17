@@ -11,7 +11,7 @@ module.exports = {
     {newEmbed:
     {author:About the $username[$clientID] bot:$userAvatar[$clientID]}
     {thumbnail:$userAvatar[$clientID]}
-    {image:https://media.discordapp.net/attachments/1271999853123211446/1271999954348412979/banner.gif?ex=66b961c5&is=66b81045&hm=0fadf2edc2b0c475d9eb6784a4d00b1a6f736b0741f72fe10f8bbf916bb4305f&=&width=1025&height=59}
+    {image:YOUR_IMAGE_LINK}
     {title:About:}
     {description:
 Overwrite Bot is a fully modular Discord bot, allowing you to enable or disable all features and commands according to your preferences
